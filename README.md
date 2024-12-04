@@ -9,6 +9,7 @@ ________________________________________
 - **Task Management**: Add, edit, delete, and mark tasks as completed.  
 - **Filtering & Search**: Filter tasks by status, priority, and due date or search by title.  
 - **Progress Visualization**: View task statistics and insights with dynamic charts 📊.  
+- **Redux State Management**: Centralized state for efficient task management and UI updates.  
 - **User-Friendly Interface**: Intuitive design for seamless task management.  
 
 ________________________________________
@@ -16,7 +17,7 @@ ________________________________________
 ## Tech Stack 💻
 
 - **Frontend**: React, Vite, Tailwind CSS  
-- **State Management**: Redux  
+- **State Management**: Redux Toolkit  
 - **Charts**: Chart.js  
 - **Icons**: FontAwesome  
 
